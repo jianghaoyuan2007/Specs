@@ -1,6 +1,6 @@
 # The cocoaPods Master Repo
 
-This repository contains the Stephen's private pods  specifications.
+This repository contains the Stephen's private pod specifications.
 
 ## Links
 
